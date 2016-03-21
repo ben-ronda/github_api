@@ -14,14 +14,13 @@ It was built using the following:
 ***
 ## Installation:
 To install GitHub Finder, clone the following repository by:
-1. Open up your terminal and type the following line:
-`git clone https://github.com/ben-ronda/github_api.git`
-2. Use this line to change directories to the project folder: `cd github_api`
-3. Run the following line to install gulp globally: `sudo npm install gulp -g`
-4. You will also need to install jshint globally: `sudo npm install jshint -g`
-5. Then use this to install the remaining developer dependencies: `sudo npm install gulp gulp-util gulp-concat gulp-uglify gulp-jshint jshint browserify browser-sync vinyl-source-stream del bower bower-files --save-dev`  
-6. Now that we have installed bower, run: `bower install jquery bootstrap moment --save`
-7. In the terminal, you should now be able to run ` gulp build --production` followed by `gulp serve` to access the webpage.
+1. Open up your terminal and type the following line: `git clone https://github.com/ben-ronda/github_api.git`  
+2. Use this line to change directories to the project folder: `cd github_api`  
+3. Run the following line to install gulp globally: `sudo npm install gulp -g`  
+4. You will also need to install jshint globally: `sudo npm install jshint -g`  
+5. Then use this to install the remaining developer dependencies: `sudo npm install gulp gulp-util gulp-concat gulp-uglify gulp-jshint jshint browserify browser-sync vinyl-source-stream del bower bower-files --save-dev`   
+6. Now that we have installed bower, run: `bower install jquery bootstrap moment --save`  
+7. In the terminal, you should now be able to run ` gulp build --production` followed by `gulp serve` to access the webpage.  
 
 
 ***
