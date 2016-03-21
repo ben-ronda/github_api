@@ -2,7 +2,7 @@
 ### Created By: Ben Ronda
 ***
 ## Project Description:
-This site was designed to take a username from a user and find all public repositories for the user.
+This site is designed to take a username from a user and find all public repositories for the user.
 
 It was built using the following:
 * JavaScript
